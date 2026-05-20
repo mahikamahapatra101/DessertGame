@@ -1,7 +1,7 @@
 # Dessert in the Desert 
 
 A browser game where you have to click the right word. Buttons saying "Dessert" 
-and "Desert" are scattered across the screen — click Dessert to gain a point, 
+and "Desert" are scattered across the screen, click Dessert to gain a point, 
 click Desert to lose one. Every click moves all the buttons to new random 
 positions so you can't just memorize where they are.
 
