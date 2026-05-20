@@ -22,6 +22,6 @@ a variable and updates the DOM on every click.
 - JavaScript
 
 ## What I learned
-Mostly how JavaScript actually talks to the page — updating text, moving elements 
+Mostly how JavaScript actually talks to the page, updating text, moving elements 
 around, handling clicks. Simple project but it made the DOM feel a lot less 
 abstract.
